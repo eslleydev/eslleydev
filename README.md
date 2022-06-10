@@ -1,4 +1,5 @@
-## Olá! Eu sou o Brandon Soares!
+## Olá! Sou Brandon Soares
+## Fique a vontade para entrar em contato!
 
 <br>
 
