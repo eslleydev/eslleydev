@@ -2,7 +2,8 @@
 
 <br>
 
-- 🌱 Estudando: JavaScript/Typescript
+- 🌱 Domínio em: HTML/CSS/JAVASCRIPT/BOOTSTRAP
+- :robot: Evoluindo em: jQuerry
 - 👯 Busco colaborar como: FrontEnd
 
 <br>
