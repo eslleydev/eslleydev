@@ -2,9 +2,9 @@
 
 <br>
 
-- 🌱 Domínio em: HTML/CSS/JAVASCRIPT/BOOTSTRAP
+- :alien: Domínio em: HTML/CSS/JAVASCRIPT/BOOTSTRAP
 - :robot: Evoluindo em: jQuerry
-- 👯 Busco colaborar como: FrontEnd
+- :cupid: Busco colaborar como: FrontEnd
 
 <br>
 
