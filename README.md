@@ -1,7 +1,7 @@
 <h2 align="left">Olá! Eu sou o Brandon Soares!</h2>
 
 ###
-<p align="left">-  👽 Domínio em: HTML/CSS/JAVASCRIPT/BOOTSTRAP<br>-  🚀 Evoluindo em: jQuerry<br>-  👨‍🎨 Busco colaborar como: FrontEnd</p>
+<p align="left">-  👽 Domínio em: HTML/CSS/JAVASCRIPT/BOOTSTRAP<br>-  🚀 Evoluindo em: jQuerry / React <br>-  👨‍🎨 Busco colaborar como: FrontEnd</p>
 
 ###
 <div align="center">
